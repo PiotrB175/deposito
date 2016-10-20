@@ -1,0 +1,6 @@
+D:\Studia UWM\Programowanie\PROGRAMY W C#\funkcja_kwadratowa\funkcja_kwadratowa\bin\Debug\funkcja_kwadratowa.exe.config
+D:\Studia UWM\Programowanie\PROGRAMY W C#\funkcja_kwadratowa\funkcja_kwadratowa\bin\Debug\funkcja_kwadratowa.exe
+D:\Studia UWM\Programowanie\PROGRAMY W C#\funkcja_kwadratowa\funkcja_kwadratowa\bin\Debug\funkcja_kwadratowa.pdb
+D:\Studia UWM\Programowanie\PROGRAMY W C#\funkcja_kwadratowa\funkcja_kwadratowa\obj\Debug\funkcja_kwadratowa.csprojResolveAssemblyReference.cache
+D:\Studia UWM\Programowanie\PROGRAMY W C#\funkcja_kwadratowa\funkcja_kwadratowa\obj\Debug\funkcja_kwadratowa.exe
+D:\Studia UWM\Programowanie\PROGRAMY W C#\funkcja_kwadratowa\funkcja_kwadratowa\obj\Debug\funkcja_kwadratowa.pdb

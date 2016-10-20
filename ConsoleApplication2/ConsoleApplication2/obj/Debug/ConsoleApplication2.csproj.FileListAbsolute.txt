@@ -1,0 +1,6 @@
+D:\Studia UWM\Programowanie\PROGRAMY W C#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\Studia UWM\Programowanie\PROGRAMY W C#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\Studia UWM\Programowanie\PROGRAMY W C#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\Studia UWM\Programowanie\PROGRAMY W C#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\Studia UWM\Programowanie\PROGRAMY W C#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\Studia UWM\Programowanie\PROGRAMY W C#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

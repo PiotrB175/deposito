@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication5
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double a, b, x;
+
+            Console.WriteLine("Program oblicza wartość wyrażenia a*x+b=0 dla podanych przez użytkownika parametrów");
+            Console.WriteLine("Podaj a");
+            a = double.Parse(Console.ReadLine());
+            Console.WriteLine("Podaj b");
+            b = double.Parse(Console.ReadLine());
+            if (a == 0 && b == 0)
+            {
+                Console.WriteLine("rówanie ma nieskończenie wiele rozwiązań");
+            }
+            else if (a==0 && b != 0) { 
+                Console.WriteLine("Równanie jest sprzeczne");
+            }
+            else
+            {
+                x = -b / a;
+                Console.WriteLine("Rozwiąznie równania to: {0}",x);
+
+            }
+            Console.ReadKey();
+        }
+    }
+}

@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication7
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double a, b, suma=0, i = 0;
+
+            Console.WriteLine("Program oblicza sumę liczb w zakresie <a;b>");
+            Console.WriteLine("Podaj a");
+            a = double.Parse(Console.ReadLine());
+            Console.WriteLine("Podaj b");
+            b = double.Parse(Console.ReadLine());
+
+            for (i = a; i <= b; i++)
+            {
+                suma = suma + i;
+                
+            }
+            Console.WriteLine("Suma liczb wynosi: {0}", suma);
+            Console.ReadKey();
+        }
+    }
+}
